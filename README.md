@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahatab Ahmed</h1>
 <h3 align="center">My name is Mahatab Ahmed, I am a .Net Developer Skilled in Asp.net, Ado.net, C#, HTML, CSS, JavaScript, Python etc. I have a keen to become a proficient Frontend Developer. And I want to work with big mnc companies in future to change the world technologies in better way.</h3>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 - 🌐 I’m currently based in Kolkata, India.
 
 - 🖥️ See my portfolio at [mahatab19.netlify.app/](mahatab19.netlify.app/)
